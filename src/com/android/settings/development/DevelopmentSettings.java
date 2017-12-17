@@ -2378,7 +2378,7 @@ public class DevelopmentSettings extends RestrictedSettingsFragment
     }
 
     private void updateShowNotificationChannelWarningsOptions() {
-        final int defaultWarningEnabled = Build.IS_DEBUGGABLE ? 1 : 0;
+        final int defaultWarningEnabled = 0;
         updateSwitchPreference(mShowNotificationChannelWarnings, Settings.Global.getInt(
                 getActivity().getContentResolver(),
                 Settings.Global.SHOW_NOTIFICATION_CHANNEL_WARNINGS, defaultWarningEnabled) != 0);
