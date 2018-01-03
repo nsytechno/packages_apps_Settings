@@ -16,25 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
-  <string name="default_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <string name="local_backup_password_title">Desktop backup password</string>
   <!-- Format string for fingerprint location message -->
-  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Locate the fingerprint sensor on the <xliff:g id="sensor_location">%1$s</xliff:g> of your phone.</string>
   <!-- Fingerprint sensor locations -->
-  <string name="security_settings_fingerprint_sensor_location_back">back</string>
-  <string name="security_settings_fingerprint_sensor_location_front">front</string>
-  <string name="security_settings_fingerprint_sensor_location_left">left side</string>
-  <string name="security_settings_fingerprint_sensor_location_right">right side</string>
   <!-- Encryption and credential -->
-  <string name="custom_encryption_and_credential_settings_summary_on">Device is encrypted</string>
-  <string name="custom_encryption_and_credential_settings_summary_off">Device is decrypted</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
-  <string name="system_theme_style_title">UI style</string>
-  <string name="system_theme_style_auto">Dynamic</string>
-  <string name="system_theme_style_light">Light</string>
-  <string name="system_theme_style_dark">Dark</string>
-  <string name="theme_applied_toast">Theme applied.</string>
-  <string name="ui_style_applied_toast">UI style changed.</string>
 </resources>

@@ -18,23 +18,23 @@
   <!-- Pixel color on sim card -->
   <string name="default_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <string name="local_backup_password_title">Heslo pro zálohy v počítači</string>
+  <string name="local_backup_password_title">Heslo pre zálohu v počítači</string>
   <!-- Format string for fingerprint location message -->
-  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Vyhledejte snímač otisku prstů <xliff:g id="sensor_location">%1$s</xliff:g> na telefonu.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Vyhľadajte snímač odtlačkov prstov <xliff:g id="sensor_location">%1$s</xliff:g> na telefóne.</string>
   <!-- Fingerprint sensor locations -->
-  <string name="security_settings_fingerprint_sensor_location_back">zadní strana</string>
-  <string name="security_settings_fingerprint_sensor_location_front">přední strana</string>
-  <string name="security_settings_fingerprint_sensor_location_left">levá strana</string>
+  <string name="security_settings_fingerprint_sensor_location_back">zadná strana</string>
+  <string name="security_settings_fingerprint_sensor_location_front">predná strana</string>
+  <string name="security_settings_fingerprint_sensor_location_left">ľavá strana</string>
   <string name="security_settings_fingerprint_sensor_location_right">pravá strana</string>
   <!-- Encryption and credential -->
-  <string name="custom_encryption_and_credential_settings_summary_on">Zařízení je šifrováno</string>
-  <string name="custom_encryption_and_credential_settings_summary_off">Zařízení je dešifrováno</string>
+  <string name="custom_encryption_and_credential_settings_summary_on">Zariadenie je zašifrované</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">Zariadenie je dešifrované</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
-  <string name="system_theme_style_title">Styl UI</string>
+  <string name="system_theme_style_title">Štýl UI</string>
   <string name="system_theme_style_auto">Dynamický</string>
-  <string name="system_theme_style_light">Světlý</string>
+  <string name="system_theme_style_light">Svetlý</string>
   <string name="system_theme_style_dark">Tmavý</string>
-  <string name="theme_applied_toast">Motiv použit.</string>
-  <string name="ui_style_applied_toast">Styl UI změněn.</string>
+  <string name="theme_applied_toast">Téma použitá.</string>
+  <string name="ui_style_applied_toast">Štýl UI sa zmenil.</string>
 </resources>
