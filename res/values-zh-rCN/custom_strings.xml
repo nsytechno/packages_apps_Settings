@@ -16,10 +16,26 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">桌面备份密码</string>
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">在您手机的 <xliff:g id="sensor_location">%1$s</xliff:g> 找到指纹传感器。</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">返回</string>
+  <string name="security_settings_fingerprint_sensor_location_front">前面</string>
+  <string name="security_settings_fingerprint_sensor_location_left">左侧</string>
+  <string name="security_settings_fingerprint_sensor_location_right">右侧</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">设备已加密</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">设备已解密</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
+  <string name="system_theme_style_title">UI 样式</string>
+  <string name="system_theme_style_auto">动态</string>
+  <string name="system_theme_style_light">亮色</string>
+  <string name="system_theme_style_dark">暗色</string>
+  <string name="system_theme_style_black">黑色</string>
+  <string name="theme_applied_toast">主题已应用</string>
+  <string name="ui_style_applied_toast">UI 样式已更改</string>
 </resources>

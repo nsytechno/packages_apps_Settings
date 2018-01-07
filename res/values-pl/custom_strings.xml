@@ -22,10 +22,10 @@
   <!-- Format string for fingerprint location message -->
   <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Zlokalizuj czytnik linii papilarnych na <xliff:g id="sensor_location">%1$s</xliff:g> Twojego telefonu.</string>
   <!-- Fingerprint sensor locations -->
-  <string name="security_settings_fingerprint_sensor_location_back">wstecz</string>
-  <string name="security_settings_fingerprint_sensor_location_front">przód</string>
-  <string name="security_settings_fingerprint_sensor_location_left">lewa strona</string>
-  <string name="security_settings_fingerprint_sensor_location_right">prawa stronie</string>
+  <string name="security_settings_fingerprint_sensor_location_back">Wstecz</string>
+  <string name="security_settings_fingerprint_sensor_location_front">Przód</string>
+  <string name="security_settings_fingerprint_sensor_location_left">Lewa strona</string>
+  <string name="security_settings_fingerprint_sensor_location_right">Prawa strona</string>
   <!-- Encryption and credential -->
   <string name="custom_encryption_and_credential_settings_summary_on">Urządzenie jest szyfrowane</string>
   <string name="custom_encryption_and_credential_settings_summary_off">Urządzenie jest odszyfrowane</string>

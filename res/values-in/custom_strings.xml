@@ -16,10 +16,26 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">Piksel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Kata sandi cadangan desktop</string>
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Cari sensor sidik jari di <xliff:g id="sensor_location">%1$s</xliff:g> telepon Anda.</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">kembali</string>
+  <string name="security_settings_fingerprint_sensor_location_front">depan</string>
+  <string name="security_settings_fingerprint_sensor_location_left">sisi kiri</string>
+  <string name="security_settings_fingerprint_sensor_location_right">sisi kanan</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">Perangkat dienkripsi</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">Perangkat didekripsi</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
+  <string name="system_theme_style_title">Gaya UI</string>
+  <string name="system_theme_style_auto">Dinamis</string>
+  <string name="system_theme_style_light">Cahaya</string>
+  <string name="system_theme_style_dark">Gelap</string>
+  <string name="system_theme_style_black">Hitam</string>
+  <string name="theme_applied_toast">Tema diterapkan.</string>
+  <string name="ui_style_applied_toast">Gaya UI berubah.</string>
 </resources>

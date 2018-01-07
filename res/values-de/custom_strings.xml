@@ -35,6 +35,7 @@
   <string name="system_theme_style_auto">Dynamisch</string>
   <string name="system_theme_style_light">Leicht</string>
   <string name="system_theme_style_dark">Dunkel</string>
+  <string name="system_theme_style_black">Schwarz</string>
   <string name="theme_applied_toast">Thema angewendet.</string>
   <string name="ui_style_applied_toast">UI-Stil verändert.</string>
 </resources>

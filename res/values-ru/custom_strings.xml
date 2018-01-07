@@ -16,10 +16,26 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">Пиксель</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Пароль для резервного копирования</string>
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Найдите сканер отпечатков пальцев на <xliff:g id="sensor_location">%1$s</xliff:g> телефона.</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">сзади</string>
+  <string name="security_settings_fingerprint_sensor_location_front">спереди</string>
+  <string name="security_settings_fingerprint_sensor_location_left">слева</string>
+  <string name="security_settings_fingerprint_sensor_location_right">справа</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">Устройство зашифровано</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">Устройство не зашифровано</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
+  <string name="system_theme_style_title">Стиль интерфейса</string>
+  <string name="system_theme_style_auto">Динамический</string>
+  <string name="system_theme_style_light">Светлый</string>
+  <string name="system_theme_style_dark">Темный</string>
+  <string name="system_theme_style_black">Чёрный</string>
+  <string name="theme_applied_toast">Тема применена.</string>
+  <string name="ui_style_applied_toast">Стиль интерфейса применён.</string>
 </resources>
