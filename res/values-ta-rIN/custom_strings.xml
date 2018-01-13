@@ -16,10 +16,26 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">பிக்சல்</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">திரைபலகை பேக்அப் கடவுச்சொல்</string>
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">உங்கள் தொலைபேசியின் <xliff:g id="sensor_location">%1$s</xliff:g>இல் கைரேகை உணரியைக் கண்டறிக.</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">பின்செல்</string>
+  <string name="security_settings_fingerprint_sensor_location_front">முன்</string>
+  <string name="security_settings_fingerprint_sensor_location_left">இடது பக்கம்</string>
+  <string name="security_settings_fingerprint_sensor_location_right">வலது பக்கம்</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">சாதனம் என்கிரிப்ட்டேட் செய்யப்பட்டது</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">சாதனம் டேகிரிப்ட்டேட் செய்யப்பட்டது</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
+  <string name="system_theme_style_title">UI ஸ்டைல்</string>
+  <string name="system_theme_style_auto">டைனமிக்</string>
+  <string name="system_theme_style_light">ஒளி</string>
+  <string name="system_theme_style_dark">இருண்ட</string>
+  <string name="system_theme_style_black">கறுப்பு</string>
+  <string name="theme_applied_toast">தீம் பிரயோகிக்கப்பட்டது.</string>
+  <string name="ui_style_applied_toast">UI ஸ்டைல் மாறியது.</string>
 </resources>

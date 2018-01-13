@@ -18,17 +18,17 @@
   <!-- Pixel color on sim card -->
   <string name="default_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <string name="local_backup_password_title">Contraseña para copias de ordenador</string>
+  <string name="local_backup_password_title">Contraseña para copias de seguridad</string>
   <!-- Format string for fingerprint location message -->
   <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Localiza el sensor de huella digital en el <xliff:g id="sensor_location">%1$s </xliff:g> de su teléfono.</string>
   <!-- Fingerprint sensor locations -->
-  <string name="security_settings_fingerprint_sensor_location_back">Atrás</string>
+  <string name="security_settings_fingerprint_sensor_location_back">atrás</string>
   <string name="security_settings_fingerprint_sensor_location_front">enfrente</string>
-  <string name="security_settings_fingerprint_sensor_location_left">Lado Izquierdo</string>
-  <string name="security_settings_fingerprint_sensor_location_right">Lado derecho</string>
+  <string name="security_settings_fingerprint_sensor_location_left">lado izquierdo</string>
+  <string name="security_settings_fingerprint_sensor_location_right">lado derecho</string>
   <!-- Encryption and credential -->
-  <string name="custom_encryption_and_credential_settings_summary_on">Dispositivo está encriptado</string>
-  <string name="custom_encryption_and_credential_settings_summary_off">Dispositivo está desencriptado</string>
+  <string name="custom_encryption_and_credential_settings_summary_on">El dispositivo está encriptado</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">El dispositivo está desencriptado</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
   <string name="system_theme_style_title">Estilo de la Interfaz</string>

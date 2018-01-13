@@ -16,10 +16,26 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">ડેસ્કટોપ બેકઅપ પાસવર્ડ</string>
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">તમારા ફોન પર ફિંગરપ્રિન્ટ સેન્સર શોધો.</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">પાછા જાઓ</string>
+  <string name="security_settings_fingerprint_sensor_location_front">આગળ</string>
+  <string name="security_settings_fingerprint_sensor_location_left">ડાબી બાજુ</string>
+  <string name="security_settings_fingerprint_sensor_location_right">જમણી બાજુ</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">ઉપકરણ એન્ક્રિપ્ટ થયેલ છે</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">ઉપકરણ ડિક્રિપ્ટ થયેલ છે</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
+  <string name="system_theme_style_title">UI style</string>
+  <string name="system_theme_style_auto">ડાઇનેમીક</string>
+  <string name="system_theme_style_light">લાઇટ</string>
+  <string name="system_theme_style_dark">ઘાટું</string>
+  <string name="system_theme_style_black">કાળો</string>
+  <string name="theme_applied_toast">વિષય લાગુ છે.</string>
+  <string name="ui_style_applied_toast">યુઆઇ શૈલી બદલી.</string>
 </resources>

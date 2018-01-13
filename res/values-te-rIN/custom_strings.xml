@@ -16,10 +16,26 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">పిక్సెల్</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">డెస్క్టాప్ బ్యాకప్ పాస్వర్డ్</string>
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">మీ ఫోన్లో వేలిముద్ర<xliff:g id="sensor_location">%1$s</xliff:g> సెన్సార్ను కనుగొనండి.</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">వెనక్కు</string>
+  <string name="security_settings_fingerprint_sensor_location_front">ముందు</string>
+  <string name="security_settings_fingerprint_sensor_location_left">ఎడమ వైపు</string>
+  <string name="security_settings_fingerprint_sensor_location_right">కుడి వైపు</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">పరికరం గుప్తీకరించబడింది</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">పరికరం డి-గుప్తీకరించబడింది</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
+  <string name="system_theme_style_title">UI రీతి</string>
+  <string name="system_theme_style_auto">క్రియాశీలక</string>
+  <string name="system_theme_style_light">లైట్</string>
+  <string name="system_theme_style_dark">డార్క్</string>
+  <string name="system_theme_style_black">నలుపు</string>
+  <string name="theme_applied_toast">థీమ్ అప్లై అయింది.</string>
+  <string name="ui_style_applied_toast">UI రీతి మార్చబడింది.</string>
 </resources>

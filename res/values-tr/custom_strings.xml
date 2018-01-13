@@ -16,16 +16,16 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
-  <string name="default_sim_color">Piksel</string>
+  <string name="default_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Masaüstü yedekleme şifresi</string>
   <!-- Format string for fingerprint location message -->
-  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Telefonunuzdaki <xliff:g id="sensor_location">%1$s</xliff:g> üzerinde parmak izi sensörünü bulun.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Telefonunuzun <xliff:g id="sensor_location">%1$s</xliff:g> tarafında ki parmak izi sensörünü bulun.</string>
   <!-- Fingerprint sensor locations -->
-  <string name="security_settings_fingerprint_sensor_location_back">geri</string>
+  <string name="security_settings_fingerprint_sensor_location_back">arka</string>
   <string name="security_settings_fingerprint_sensor_location_front">ön</string>
-  <string name="security_settings_fingerprint_sensor_location_left">sol taraf</string>
-  <string name="security_settings_fingerprint_sensor_location_right">sağ taraf</string>
+  <string name="security_settings_fingerprint_sensor_location_left">sol</string>
+  <string name="security_settings_fingerprint_sensor_location_right">sağ</string>
   <!-- Encryption and credential -->
   <string name="custom_encryption_and_credential_settings_summary_on">Cihaz şifrelendi</string>
   <string name="custom_encryption_and_credential_settings_summary_off">Cihaz şifrelenmedi</string>
@@ -35,6 +35,7 @@
   <string name="system_theme_style_auto">Dinamik</string>
   <string name="system_theme_style_light">Aydınlık</string>
   <string name="system_theme_style_dark">Koyu</string>
+  <string name="system_theme_style_black">Siyah</string>
   <string name="theme_applied_toast">Tema uygulandı.</string>
   <string name="ui_style_applied_toast">Kullanıcı arayüzü stili değiştirildi.</string>
 </resources>
