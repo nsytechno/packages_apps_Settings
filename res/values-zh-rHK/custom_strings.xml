@@ -19,6 +19,7 @@
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <!-- Format string for fingerprint location message -->
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">返回</string>
   <!-- Encryption and credential -->
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
