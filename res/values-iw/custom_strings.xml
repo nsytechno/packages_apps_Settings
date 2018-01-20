@@ -16,10 +16,24 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">פיקסל</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">אתר את חיישן טביעת האצבע בפלאפון שלך.</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">אחורה</string>
+  <string name="security_settings_fingerprint_sensor_location_front">קדימה</string>
+  <string name="security_settings_fingerprint_sensor_location_left">צד שמאל</string>
+  <string name="security_settings_fingerprint_sensor_location_right">צד ימין</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">המכשיר מוצפן</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">המכשיר לא מוצפן</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
+  <string name="system_theme_style_title">סגנון ממשק</string>
+  <string name="system_theme_style_light">בהיר</string>
+  <string name="system_theme_style_dark">כהה</string>
+  <string name="system_theme_style_black">שחור</string>
+  <string name="theme_applied_toast">ערכת הנושא הוחלה.</string>
+  <string name="ui_style_applied_toast">סגנון הממשק השתנה.</string>
 </resources>

@@ -25,7 +25,7 @@
   <string name="security_settings_fingerprint_sensor_location_back">wstecz</string>
   <string name="security_settings_fingerprint_sensor_location_front">przód</string>
   <string name="security_settings_fingerprint_sensor_location_left">lewa strona</string>
-  <string name="security_settings_fingerprint_sensor_location_right">prawa stronie</string>
+  <string name="security_settings_fingerprint_sensor_location_right">prawa strona</string>
   <!-- Encryption and credential -->
   <string name="custom_encryption_and_credential_settings_summary_on">Urządzenie jest szyfrowane</string>
   <string name="custom_encryption_and_credential_settings_summary_off">Urządzenie jest odszyfrowane</string>

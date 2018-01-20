@@ -24,18 +24,18 @@
   <!-- Fingerprint sensor locations -->
   <string name="security_settings_fingerprint_sensor_location_back">Rückseite</string>
   <string name="security_settings_fingerprint_sensor_location_front">Vorderseite</string>
-  <string name="security_settings_fingerprint_sensor_location_left">linke Seite</string>
-  <string name="security_settings_fingerprint_sensor_location_right">rechte Seite</string>
+  <string name="security_settings_fingerprint_sensor_location_left">linken Seite</string>
+  <string name="security_settings_fingerprint_sensor_location_right">rechten Seite</string>
   <!-- Encryption and credential -->
   <string name="custom_encryption_and_credential_settings_summary_on">Gerät ist verschlüsselt</string>
-  <string name="custom_encryption_and_credential_settings_summary_off">Gerät ist unverschlüsselt</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">Gerät ist entschlüsselt</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
-  <string name="system_theme_style_title">Benutzeroberflächenstil</string>
+  <string name="system_theme_style_title">Stil der Benutzeroberfläche</string>
   <string name="system_theme_style_auto">Dynamisch</string>
-  <string name="system_theme_style_light">Leicht</string>
+  <string name="system_theme_style_light">Hell</string>
   <string name="system_theme_style_dark">Dunkel</string>
   <string name="system_theme_style_black">Schwarz</string>
   <string name="theme_applied_toast">Thema angewendet.</string>
-  <string name="ui_style_applied_toast">Benutzeroberflächenstil verändert.</string>
+  <string name="ui_style_applied_toast">Benutzeroberflächenstil geändert.</string>
 </resources>

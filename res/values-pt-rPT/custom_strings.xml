@@ -16,10 +16,18 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Localize o sensor de impressões digitais na <xliff:g id="sensor_location">%1$s</xliff:g> do seu telemóvel.</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">voltar</string>
+  <string name="security_settings_fingerprint_sensor_location_front">frente</string>
+  <string name="security_settings_fingerprint_sensor_location_left">lado esquerdo</string>
+  <string name="security_settings_fingerprint_sensor_location_right">lado direito</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">Dispositivo está encriptado</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">Dispositivo está desencriptado</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
   <string name="system_theme_style_title">Estilo da UI</string>
