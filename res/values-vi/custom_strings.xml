@@ -16,10 +16,26 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">Điểm ảnh</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Sao lưu mật khẩu máy tính</string>
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Xác định vị trí các cảm biến vân tay trên <xliff:g id="sensor_location">%1$s </xliff:g> điện thoại của bạn.</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">Trở lại</string>
+  <string name="security_settings_fingerprint_sensor_location_front">Trước</string>
+  <string name="security_settings_fingerprint_sensor_location_left">Cạnh trái</string>
+  <string name="security_settings_fingerprint_sensor_location_right">Cạnh phải</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">Thiết bị được mã hóa</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">Thiết bị được mã hóa</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
+  <string name="system_theme_style_title">Giao diện người dùng</string>
+  <string name="system_theme_style_auto">Động</string>
+  <string name="system_theme_style_light">Sáng</string>
+  <string name="system_theme_style_dark">Tối</string>
+  <string name="system_theme_style_black">Đen</string>
+  <string name="theme_applied_toast">Chủ đề được áp dụng.</string>
+  <string name="ui_style_applied_toast">Đã đổi giao diện.</string>
 </resources>

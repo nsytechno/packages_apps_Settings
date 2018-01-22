@@ -18,6 +18,7 @@
   <!-- Pixel color on sim card -->
   <string name="default_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Senha da cópia de segurança do ecrã principal</string>
   <!-- Format string for fingerprint location message -->
   <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Localize o sensor de impressões digitais na <xliff:g id="sensor_location">%1$s</xliff:g> do seu telemóvel.</string>
   <!-- Fingerprint sensor locations -->

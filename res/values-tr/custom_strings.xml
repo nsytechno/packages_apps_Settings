@@ -27,8 +27,8 @@
   <string name="security_settings_fingerprint_sensor_location_left">sol</string>
   <string name="security_settings_fingerprint_sensor_location_right">sağ</string>
   <!-- Encryption and credential -->
-  <string name="custom_encryption_and_credential_settings_summary_on">Cihaz şifrelendi</string>
-  <string name="custom_encryption_and_credential_settings_summary_off">Cihaz şifrelenmedi</string>
+  <string name="custom_encryption_and_credential_settings_summary_on">Cihaz şifrelenmiş</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">Cihaz şifrelenmiş</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
   <string name="system_theme_style_title">Kullanıcı arayüzü stili</string>
