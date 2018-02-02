@@ -16,10 +16,28 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">Piksel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Awal uffir n waḥraz</string>
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Af-d asiktay n tarkit talfaft deg <xliff:g id="sensor_location">%1$s</xliff:g> n teleɣṛi inek.</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">Tuɣalin</string>
+  <string name="security_settings_fingerprint_sensor_location_front">s wudem</string>
+  <string name="security_settings_fingerprint_sensor_location_left">idis azelmaḍ</string>
+  <string name="security_settings_fingerprint_sensor_location_right">idis ayeffus</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">Yibenk yettwawgelhen </string>
+  <string name="custom_encryption_and_credential_settings_summary_off">Yibenk yettwazmak </string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
+  <string name="system_theme_style_title">Aɣanib n unagraw</string>
+  <string name="system_theme_style_auto">Asmussan</string>
+  <string name="system_theme_style_light">Tafat</string>
+  <string name="system_theme_style_dark">Aqesḥan</string>
+  <string name="system_theme_style_black">Aberkan</string>
+  <string name="theme_applied_toast">Asintil yettwasaɣen.</string>
+  <string name="ui_style_applied_toast">Tawila UI tettwabeddel.</string>
+  <!-- MSIM Manual provisioning -->
+  <!-- Notification log -->
 </resources>

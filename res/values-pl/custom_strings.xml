@@ -31,11 +31,13 @@
   <string name="custom_encryption_and_credential_settings_summary_off">Urządzenie jest odszyfrowane</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
-  <string name="system_theme_style_title">Rozmiar interfejsu</string>
+  <string name="system_theme_style_title">Styl interfejsu</string>
   <string name="system_theme_style_auto">Dynamiczny</string>
   <string name="system_theme_style_light">Jasny</string>
   <string name="system_theme_style_dark">Ciemny</string>
   <string name="system_theme_style_black">Czarny</string>
   <string name="theme_applied_toast">Zastosowano motyw.</string>
   <string name="ui_style_applied_toast">Zmieniono styl interfejsu użytkownika.</string>
+  <!-- MSIM Manual provisioning -->
+  <!-- Notification log -->
 </resources>

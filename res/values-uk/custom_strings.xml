@@ -38,4 +38,6 @@
   <string name="system_theme_style_black">Чорний</string>
   <string name="theme_applied_toast">Тему застосовано.</string>
   <string name="ui_style_applied_toast">Стиль інтерфейсу змінено.</string>
+  <!-- MSIM Manual provisioning -->
+  <!-- Notification log -->
 </resources>

@@ -38,4 +38,6 @@
   <string name="system_theme_style_black">கறுப்பு</string>
   <string name="theme_applied_toast">தீம் பிரயோகிக்கப்பட்டது.</string>
   <string name="ui_style_applied_toast">UI ஸ்டைல் மாறியது.</string>
+  <!-- MSIM Manual provisioning -->
+  <!-- Notification log -->
 </resources>

@@ -38,4 +38,6 @@
   <string name="system_theme_style_black">Svart</string>
   <string name="theme_applied_toast">Tema tillämpad.</string>
   <string name="ui_style_applied_toast">UI stil har förändrats.</string>
+  <!-- MSIM Manual provisioning -->
+  <!-- Notification log -->
 </resources>

@@ -38,4 +38,6 @@
   <string name="system_theme_style_black">કાળો</string>
   <string name="theme_applied_toast">વિષય લાગુ છે.</string>
   <string name="ui_style_applied_toast">યુઆઇ શૈલી બદલી.</string>
+  <!-- MSIM Manual provisioning -->
+  <!-- Notification log -->
 </resources>

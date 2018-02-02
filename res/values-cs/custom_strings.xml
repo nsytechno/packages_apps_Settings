@@ -38,4 +38,6 @@
   <string name="system_theme_style_black">Černý</string>
   <string name="theme_applied_toast">Motiv použit.</string>
   <string name="ui_style_applied_toast">Styl UI změněn.</string>
+  <!-- MSIM Manual provisioning -->
+  <!-- Notification log -->
 </resources>

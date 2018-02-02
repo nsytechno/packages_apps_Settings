@@ -38,4 +38,6 @@
   <string name="system_theme_style_black">Schwarz</string>
   <string name="theme_applied_toast">Thema angewendet.</string>
   <string name="ui_style_applied_toast">Benutzeroberflächenstil geändert.</string>
+  <!-- MSIM Manual provisioning -->
+  <!-- Notification log -->
 </resources>

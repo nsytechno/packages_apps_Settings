@@ -16,10 +16,28 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="default_sim_color">پیکسل</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">رمز پشتیبان دسکتاپ</string>
   <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">سنسور اثر انگشت را در <xliff:g id="sensor_location">%1$s </xliff:g> تلفن خود پیدا کنید.</string>
   <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">پشت</string>
+  <string name="security_settings_fingerprint_sensor_location_front">جلو</string>
+  <string name="security_settings_fingerprint_sensor_location_left">دیواره چپ</string>
+  <string name="security_settings_fingerprint_sensor_location_right">دیواره راست</string>
   <!-- Encryption and credential -->
+  <string name="custom_encryption_and_credential_settings_summary_on">دستگاه رمزگذاری شده‌‌است</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">دستگاه رمزگذاری نشده‌است</string>
   <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
   <!-- Themes -->
+  <string name="system_theme_style_title">سبک رابط کاربری</string>
+  <string name="system_theme_style_auto">پویا</string>
+  <string name="system_theme_style_light">روشن</string>
+  <string name="system_theme_style_dark">تیره</string>
+  <string name="system_theme_style_black">مشکی</string>
+  <string name="theme_applied_toast">پوسته فعال شد.</string>
+  <string name="ui_style_applied_toast">سبک رابط کاربری تغییر کرد.</string>
+  <!-- MSIM Manual provisioning -->
+  <!-- Notification log -->
 </resources>

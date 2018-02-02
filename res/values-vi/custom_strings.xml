@@ -38,4 +38,6 @@
   <string name="system_theme_style_black">Đen</string>
   <string name="theme_applied_toast">Chủ đề được áp dụng.</string>
   <string name="ui_style_applied_toast">Đã đổi giao diện.</string>
+  <!-- MSIM Manual provisioning -->
+  <!-- Notification log -->
 </resources>
