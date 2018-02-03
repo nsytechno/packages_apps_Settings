@@ -16,7 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
-  <string name="default_sim_color">Piksel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Awal uffir n waḥraz</string>
   <!-- Format string for fingerprint location message -->
@@ -39,5 +38,23 @@
   <string name="theme_applied_toast">Asintil yettwasaɣen.</string>
   <string name="ui_style_applied_toast">Tawila UI tettwabeddel.</string>
   <!-- MSIM Manual provisioning -->
+  <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g> d <xliff:g id="status" example="disabled">%2$s</xliff:g></string>
+  <string name="sim_enabled">yermed</string>
+  <string name="sim_disabled">yettwassens</string>
+  <string name="sim_missing">ulac-it neɣ texṣer</string>
+  <string name="sim_enabler_need_disable_sim">Takarḍa SIM ad-tens. Tebɣiḍ ad-tkemmleḍ?</string>
+  <string name="sim_enabler_will_disable_sim_title">Annabri</string>
+  <string name="sim_enabler_need_switch_data_service">Takarḍa yagi n SIM ad-tens, SIM <xliff:g id="slotid">%1$s</xliff:g> ad-tettwaqdac g imeẓla n isefka. Tebɣiḍ ad-tkemmleḍ?</string>
+  <string name="sim_enabler_airplane_on">Ulamek ara-teddu temhelt agi ticki yermed uskar asafag.</string>
+  <string name="sim_enabler_in_call">Ulamek ara-teddu temhelt agi m-ara tsawaleḍ.</string>
+  <string name="sim_enabler_both_inactive">Ur izmir ara ad-issens meṛṛa tikarḍiwin n SIM </string>
+  <string name="sim_enabler_enabling">Assermed\u2026</string>
+  <string name="sim_enabler_disabling">Tunsa ussermed\u2026</string>
+  <string name="sub_activate_success">Takarḍa n SIM tettwermed.</string>
+  <string name="sub_activate_failed">Icceḍ urmad.</string>
+  <string name="sub_deactivate_success">Takarḍa n SIM tensa,.</string>
+  <string name="sub_deactivate_failed">Yecceḍ ussensi.</string>
+  <string name="available_sims_title">Tella takarḍa n SIM</string>
   <!-- Notification log -->
+  <string name="notification_log_summary">Amazray n ilɣuten </string>
 </resources>

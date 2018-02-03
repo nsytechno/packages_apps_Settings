@@ -16,7 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
-  <string name="default_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Kata sandi cadangan desktop</string>
   <!-- Format string for fingerprint location message -->
@@ -39,5 +38,23 @@
   <string name="theme_applied_toast">Tema diterapkan.</string>
   <string name="ui_style_applied_toast">Gaya Antarmuka Pengguna berubah.</string>
   <!-- MSIM Manual provisioning -->
+  <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s </xliff:g> adalah <xliff:g id="status" example="disabled">%2$s </xliff:g></string>
+  <string name="sim_enabled">diaktifkan</string>
+  <string name="sim_disabled">nonaktif</string>
+  <string name="sim_missing">hilang atau rusak</string>
+  <string name="sim_enabler_need_disable_sim">Kartu SIM akan dinonaktifkan. Apakah Anda ingin melanjutkan?</string>
+  <string name="sim_enabler_will_disable_sim_title">Perhatian</string>
+  <string name="sim_enabler_need_switch_data_service">SIM ini akan dinonaktifkan dan SIM <xliff:g id="slotid">%1$s </xliff:g> akan digunakan untuk layanan data. Apakah Anda yakin ingin melanjutkan?</string>
+  <string name="sim_enabler_airplane_on">Tidak dapat melakukan operasi saat mode pesawat aktif.</string>
+  <string name="sim_enabler_in_call">Tidak dapat melakukan operasi saat dalam panggilan.</string>
+  <string name="sim_enabler_both_inactive">Tidak dapat menonaktifkan semua kartu SIM</string>
+  <string name="sim_enabler_enabling">Mengaktifkan\u2026</string>
+  <string name="sim_enabler_disabling">Menonaktifkan\u2026</string>
+  <string name="sub_activate_success">SIM diaktifkan.</string>
+  <string name="sub_activate_failed">Aktivasi gagal.</string>
+  <string name="sub_deactivate_success">SIM dinonaktifkan.</string>
+  <string name="sub_deactivate_failed">Penonaktifan gagal.</string>
+  <string name="available_sims_title">Kartu SIM yang tersedia</string>
   <!-- Notification log -->
+  <string name="notification_log_summary">Tampilkan riwayat notifikasi</string>
 </resources>

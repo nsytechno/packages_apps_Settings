@@ -16,7 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
-  <string name="default_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Contraseña para copias de seguridad</string>
   <!-- Format string for fingerprint location message -->
@@ -39,5 +38,23 @@
   <string name="theme_applied_toast">Tema aplicado.</string>
   <string name="ui_style_applied_toast">Estilo de Interfaz cambiado.</string>
   <!-- MSIM Manual provisioning -->
+  <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g>es<xliff:g id="status" example="disabled">%2$s</xliff:g></string>
+  <string name="sim_enabled">habilitado</string>
+  <string name="sim_disabled">deshabilitado</string>
+  <string name="sim_missing">ausente o defectuoso</string>
+  <string name="sim_enabler_need_disable_sim">La tarjeta SIM se desactivará. ¿Quieres continuar?</string>
+  <string name="sim_enabler_will_disable_sim_title">Atención</string>
+  <string name="sim_enabler_need_switch_data_service">Se desactivará esta SIM y la SIM <xliff:g id="slotid">%1$s</xliff:g> se utilizará para servicios de datos. ¿Estás seguro que deseas continuar?</string>
+  <string name="sim_enabler_airplane_on">No se puede realizar la operación mientras el modo avión está encendido.</string>
+  <string name="sim_enabler_in_call">No se puede realizar la operación durante la llamada.</string>
+  <string name="sim_enabler_both_inactive">No se puede desactivar todas las tarjetas SIM</string>
+  <string name="sim_enabler_enabling">Activando\u2026</string>
+  <string name="sim_enabler_disabling">Desactivando\u2026</string>
+  <string name="sub_activate_success">SIM activada.</string>
+  <string name="sub_activate_failed">Error de activación.</string>
+  <string name="sub_deactivate_success">SIM desactivada.</string>
+  <string name="sub_deactivate_failed">Error de desactivación.</string>
+  <string name="available_sims_title">Tarjetas SIM disponibles</string>
   <!-- Notification log -->
+  <string name="notification_log_summary">Mostrar historial de notificaciones</string>
 </resources>

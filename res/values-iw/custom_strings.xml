@@ -16,10 +16,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
-  <string name="default_sim_color">פיקסל</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <!-- Format string for fingerprint location message -->
-  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">אתר את חיישן טביעת האצבע בפלאפון שלך.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">אתר את חיישן טביעת האצבע ב- <xliff:g id="sensor_location">%1$s</xliff:g> של הטלפון.</string>
   <!-- Fingerprint sensor locations -->
   <string name="security_settings_fingerprint_sensor_location_back">אחורה</string>
   <string name="security_settings_fingerprint_sensor_location_front">קדימה</string>

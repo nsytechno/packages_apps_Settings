@@ -16,7 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
-  <string name="default_sim_color">Kolor karty SIM</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Hasło kopii zapasowej</string>
   <!-- Format string for fingerprint location message -->
@@ -39,5 +38,15 @@
   <string name="theme_applied_toast">Zastosowano motyw.</string>
   <string name="ui_style_applied_toast">Zmieniono styl interfejsu użytkownika.</string>
   <!-- MSIM Manual provisioning -->
+  <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g> jest <xliff:g id="status" example="disabled">%2$s</xliff:g></string>
+  <string name="sim_enabled">włączona</string>
+  <string name="sim_disabled">wyłączona</string>
+  <string name="sim_enabler_need_disable_sim">Karta SIM zostanie wyłączona. Kontynuować?</string>
+  <string name="sim_enabler_will_disable_sim_title">Uwaga</string>
+  <string name="sim_enabler_enabling">Aktywowanie\u2026</string>
+  <string name="sim_enabler_disabling">Dezaktywowanie\u2026</string>
+  <string name="sub_activate_failed">Aktywacja nie powiodła się.</string>
+  <string name="sub_deactivate_failed">Dezaktywacja nie powiodła się.</string>
+  <string name="available_sims_title">Dostępne karty SIM</string>
   <!-- Notification log -->
 </resources>

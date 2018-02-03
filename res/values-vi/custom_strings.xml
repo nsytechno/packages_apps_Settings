@@ -16,7 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
-  <string name="default_sim_color">Điểm ảnh</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Sao lưu mật khẩu máy tính</string>
   <!-- Format string for fingerprint location message -->
@@ -39,5 +38,23 @@
   <string name="theme_applied_toast">Chủ đề được áp dụng.</string>
   <string name="ui_style_applied_toast">Đã đổi giao diện.</string>
   <!-- MSIM Manual provisioning -->
+  <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g> là <xliff:g id="status" example="disabled">%2$s</xliff:g></string>
+  <string name="sim_enabled">cho phép</string>
+  <string name="sim_disabled">vô hiệu hóa</string>
+  <string name="sim_missing">thiếu hoặc bị lỗi</string>
+  <string name="sim_enabler_need_disable_sim">Thẻ SIM sẽ bị huỷ kích hoạt. Bạn có muốn tiếp tục?</string>
+  <string name="sim_enabler_will_disable_sim_title">Chú ý</string>
+  <string name="sim_enabler_need_switch_data_service">SIM này sẽ bị vô hiệu và SIM <xliff:g id="slotid">%1$s</xliff:g> sẽ được dùng cho dịch vụ dữ liệu. Bạn có chắc muốn tiếp tục?</string>
+  <string name="sim_enabler_airplane_on">Không thể thực hiện thao tác trong khi đang ở chế độ máy bay.</string>
+  <string name="sim_enabler_in_call">Không thể thực hiện thao tác trong khi đang gọi.</string>
+  <string name="sim_enabler_both_inactive">Không thể vô hiệu hóa tất cả các thẻ SIM</string>
+  <string name="sim_enabler_enabling">Đang kích hoạt\u2026</string>
+  <string name="sim_enabler_disabling">Đang huỷ kích hoạt\u2026</string>
+  <string name="sub_activate_success">Đã kích hoạt SIM.</string>
+  <string name="sub_activate_failed">Kích hoạt thất bại.</string>
+  <string name="sub_deactivate_success">Đã huỷ kích hoạt SIM.</string>
+  <string name="sub_deactivate_failed">Huỷ kích hoạt thất bại.</string>
+  <string name="available_sims_title">Có thẻ SIM</string>
   <!-- Notification log -->
+  <string name="notification_log_summary">Hiển thị thông báo lịch sử đăng nhập</string>
 </resources>
