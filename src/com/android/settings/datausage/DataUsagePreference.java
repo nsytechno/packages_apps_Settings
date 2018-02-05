@@ -42,9 +42,10 @@ public class DataUsagePreference extends Preference implements TemplatePreferenc
         mSubId = subId;
         DataUsageController controller = new DataUsageController(getContext());
         DataUsageController.DataUsageInfo usageInfo = controller.getDataUsageInfo(mTemplate);
+        if(usageInfo != null && usageInfo.usageLevel != null) {
         setSummary(getContext().getString(R.string.data_usage_template,
                 Formatter.formatFileSize(getContext(), usageInfo.usageLevel), usageInfo.period));
-        setIntent(getIntent());
+        setIntent(getIntent()); }
     }
 
     @Override
