@@ -36,7 +36,6 @@
   <string name="system_theme_style_dark">어둡게</string>
   <string name="system_theme_style_black">검정</string>
   <string name="theme_applied_toast">테마 적용됨</string>
-  <string name="ui_style_applied_toast">UI 스타일 변경됨</string>
   <!-- MSIM Manual provisioning -->
   <!-- Notification log -->
 </resources>

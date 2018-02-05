@@ -36,7 +36,6 @@
   <string name="system_theme_style_dark">अंधेरा</string>
   <string name="system_theme_style_black">काला</string>
   <string name="theme_applied_toast">थीम लागू कर दी गई है</string>
-  <string name="ui_style_applied_toast">UI शैली परिवर्तित ।</string>
   <!-- MSIM Manual provisioning -->
   <!-- Notification log -->
 </resources>

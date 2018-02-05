@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="pixel_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Εφ/κός κωδικός επιφάνειας εργασίας</string>
   <!-- Format string for fingerprint location message -->
@@ -36,7 +37,25 @@
   <string name="system_theme_style_dark">Σκούρο</string>
   <string name="system_theme_style_black">Μαύρο</string>
   <string name="theme_applied_toast">Το θέμα εφαρμόστηκε.</string>
-  <string name="ui_style_applied_toast">Το στυλ διεπαφής χρήστη άλλαξε.</string>
   <!-- MSIM Manual provisioning -->
+  <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g> - <xliff:g id="status" example="disabled">%2$s</xliff:g></string>
+  <string name="sim_enabled">ενεργοποιημένο</string>
+  <string name="sim_disabled">απενεργοποιημένο</string>
+  <string name="sim_missing">απούσα ή ελαττωματική</string>
+  <string name="sim_enabler_need_disable_sim">Η κάρτα SIM θα απενεργοποιηθεί. Θέλετε να συνεχίσετε;</string>
+  <string name="sim_enabler_will_disable_sim_title">Προσοχή</string>
+  <string name="sim_enabler_need_switch_data_service">Αυτή η SIM θα απενεργοποιηθεί και η SIM <xliff:g id="slotid">%1$s</xliff:g> θα χρησιμοποιηθεί για υπηρεσίες δεδομένων. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;</string>
+  <string name="sim_enabler_airplane_on">Δεν είναι δυνατή η εκτέλεση της ενέργειας όσο η λειτουργία πτήσης είναι ενεργή.</string>
+  <string name="sim_enabler_in_call">Δεν είναι δυνατή η εκτέλεση της ενέργειας κατά τη διάρκεια μιας κλήσης.</string>
+  <string name="sim_enabler_both_inactive">Δεν μπορείτε να απενεργοποιήσετε όλες τις κάρτες SIM</string>
+  <string name="sim_enabler_enabling">Ενεργοποίηση\u2026</string>
+  <string name="sim_enabler_disabling">Απενεργοποίηση\u2026</string>
+  <string name="sub_activate_success">Η SIM ενεργοποιήθηκε.</string>
+  <string name="sub_activate_failed">Αποτυχία ενεργοποίησης.</string>
+  <string name="sub_deactivate_success">Η SIM απενεργοποιήθηκε.</string>
+  <string name="sub_deactivate_failed">Ανεπιτυχής απενεργοποίηση.</string>
+  <string name="available_sims_title">Διαθέσιμες κάρτες SIM</string>
   <!-- Notification log -->
+  <string name="notification_log_summary">Δείτε όλες τις ειδοποιήσεις 
+</string>
 </resources>

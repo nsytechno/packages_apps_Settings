@@ -36,7 +36,6 @@
   <string name="system_theme_style_dark">Gelap</string>
   <string name="system_theme_style_black">Hitam</string>
   <string name="theme_applied_toast">Tema digunakan.</string>
-  <string name="ui_style_applied_toast">Gaya UI diubahkan.</string>
   <!-- MSIM Manual provisioning -->
   <!-- Notification log -->
 </resources>

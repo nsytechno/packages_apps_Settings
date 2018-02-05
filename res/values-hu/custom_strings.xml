@@ -36,7 +36,6 @@
   <string name="system_theme_style_dark">Sötét</string>
   <string name="system_theme_style_black">Fekete</string>
   <string name="theme_applied_toast">Téma alkalmazva.</string>
-  <string name="ui_style_applied_toast">A felület stílusa megváltozott.</string>
   <!-- MSIM Manual provisioning -->
   <!-- Notification log -->
 </resources>

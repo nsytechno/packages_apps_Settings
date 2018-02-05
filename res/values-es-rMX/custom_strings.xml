@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Pixel color on sim card -->
+  <string name="pixel_sim_color">Pixel</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Contraseña para copias de seguridad</string>
   <!-- Format string for fingerprint location message -->
@@ -36,7 +37,6 @@
   <string name="system_theme_style_dark">Oscuro</string>
   <string name="system_theme_style_black">Negro</string>
   <string name="theme_applied_toast">Tema aplicado.</string>
-  <string name="ui_style_applied_toast">Estilo de Interfaz cambiado.</string>
   <!-- MSIM Manual provisioning -->
   <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g>es<xliff:g id="status" example="disabled">%2$s</xliff:g></string>
   <string name="sim_enabled">habilitado</string>

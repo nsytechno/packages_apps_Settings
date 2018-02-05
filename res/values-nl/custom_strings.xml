@@ -33,7 +33,6 @@
   <string name="system_theme_style_dark">Donker</string>
   <string name="system_theme_style_black">Zwart</string>
   <string name="theme_applied_toast">Thema toegepast.</string>
-  <string name="ui_style_applied_toast">UI-stijl gewijzigd.</string>
   <!-- MSIM Manual provisioning -->
   <!-- Notification log -->
 </resources>

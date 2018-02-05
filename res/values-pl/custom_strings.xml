@@ -36,7 +36,6 @@
   <string name="system_theme_style_dark">Ciemny</string>
   <string name="system_theme_style_black">Czarny</string>
   <string name="theme_applied_toast">Zastosowano motyw.</string>
-  <string name="ui_style_applied_toast">Zmieniono styl interfejsu użytkownika.</string>
   <!-- MSIM Manual provisioning -->
   <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g> jest <xliff:g id="status" example="disabled">%2$s</xliff:g></string>
   <string name="sim_enabled">włączona</string>
@@ -49,4 +48,5 @@
   <string name="sub_deactivate_failed">Dezaktywacja nie powiodła się.</string>
   <string name="available_sims_title">Dostępne karty SIM</string>
   <!-- Notification log -->
+  <string name="notification_log_summary">Pokaż historię powiadomień</string>
 </resources>

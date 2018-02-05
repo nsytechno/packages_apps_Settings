@@ -36,7 +36,6 @@
   <string name="system_theme_style_dark">Oscuro</string>
   <string name="system_theme_style_black">Negro</string>
   <string name="theme_applied_toast">Tema aplicado.</string>
-  <string name="ui_style_applied_toast">Estilo de Interfaz cambiado.</string>
   <!-- MSIM Manual provisioning -->
   <!-- Notification log -->
 </resources>
